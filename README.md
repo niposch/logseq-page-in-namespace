@@ -1,6 +1,9 @@
 # Page in Namespace
 
-This Plugin allows you to conveniently create a new page in the namespace of the current page.
+This Plugin allows you to conveniently create a link to a (potentially non-existent) page in the current namespace.
+The current namespace is the namespace of the page you are currently on.
+
+![](./imgs/demo.gif)
 
 Slash commands provided by this plugin:
 -  `/Page reference in Namespace`
