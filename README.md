@@ -14,8 +14,8 @@ Slash commands provided by this plugin:
 
 # Development
 1. Clone
-2. Run `npm install`
-3. Run `npm run build`
+2. Run `yarn`
+3. Run `yarn build`
 4. In logseq, click `Plugins` which is in right top dropdown menu
 5. Click `Load unpacked plugin` button and select the `dist` sub directory.
 6. If plugin not work, you can try to disable and enable the plugin by clicking the switch button on Plugins page.
